@@ -5,5 +5,5 @@
 ### INF.03 (podstawa PP2019): od 2021 do 2024 (czerwiec)   :  [ pliki ](https://github.com/Golebiewski-Zbigniew/Egzaminy-Zawodowe/tree/main/E14-EE09-INF03)
 
 # INF.04
-### INF.04 (podstawa PP2019): od 2021 do 2024 (styczeń)   :  [ pliki ](https://github.com/Golebiewski-Zbigniew/Egzaminy-Zawodowe/tree/main/INF04)
+### INF.04 (podstawa PP2019): od 2021 do 2024 (czerwiec)   :  [ pliki ](https://github.com/Golebiewski-Zbigniew/Egzaminy-Zawodowe/tree/main/INF04)
 
